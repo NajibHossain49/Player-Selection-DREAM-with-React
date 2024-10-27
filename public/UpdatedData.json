@@ -1,0 +1,122 @@
+[
+    {
+        "playerId": 1,
+        "name": "Ben Stokes",
+        "country": "England",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Ben_Stokes_bowling_%2C_2013.jpg",
+        "role": "All-Rounder",
+        "battingType": "Left-handed",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": 6000000
+    },
+    {
+        "playerId": 2,
+        "name": "Pat Cummins",
+        "country": "Australia",
+        "image": "https://crictoday.com/wp-content/uploads/2023/05/imengine.public.prod_.mmg_.navigacloud-2.jpg",
+        "role": "Bowler",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": 1000000
+    },
+    {
+        "playerId": 3,
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/4ea5a6124969127.610f912dedc57.png",
+        "role": "All-Rounder",
+        "battingType": "Left-handed",
+        "bowlingType": "Left-arm orthodox",
+        "biddingPrice": 850000
+    },
+    {
+        "playerId": 4,
+        "name": "Chris Gayle",
+        "country": "West Indies",
+        "image": "https://c.ndtvimg.com/2021-10/sh9iqsjg_chris-gayle_625x300_16_October_21.jpg?im=FitAndFill,algorithm=dnn,width=806,height=605",
+        "role": "Batsman",
+        "battingType": "Left-handed",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": 800000
+    },
+    {
+        "playerId": 5,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "image": "https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2024-02/GettyImages-2014197776%281%29.jpg?h=fecbceb7&itok=NbQrmXnM",
+        "role": "Batsman",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": 950000
+    },
+    {
+        "playerId": 6,
+        "name": "Kagiso Rabada",
+        "country": "South Africa",
+        "image": "https://static.toiimg.com/thumb/msid-114536899,width-400,resizemode-4/114536899.jpg",
+        "role": "Bowler",
+        "battingType": "Left-handed",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": 900000
+    },
+    {
+        "playerId": 7,
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "image": "https://i.dawn.com/primary/2024/06/26184210181bb48.jpg",
+        "role": "Bowler",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm leg break",
+        "biddingPrice": 1000000
+    },
+    {
+        "playerId": 8,
+        "name": "Carlos Brathwaite",
+        "country": "West Indies",
+        "image": "https://www.gulfgiants.com/static-assets/waf-images/a7/be/cd/16-9/pgJ8qTQ9SV.jpeg?v=2.91&w=600",
+        "role": "All-Rounder",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm medium-fast",
+        "biddingPrice": 700000
+    },
+    {
+        "playerId": 9,
+        "name": "Trent Boult",
+        "country": "New Zealand",
+        "image": "https://opt.toiimg.com/recuperator/img/toi/m-57206512/57206512.jpg",
+        "role": "Bowler",
+        "battingType": "Right-handed",
+        "bowlingType": "Left-arm fast",
+        "biddingPrice": 750000
+    },
+    {
+        "playerId": 10,
+        "name": "Mitchell Marsh",
+        "country": "Australia",
+        "image": "https://static.toiimg.com/thumb/msid-87712734,width-400,resizemode-4/87712734.jpg",
+        "role": "All-Rounder",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm medium-fast",
+        "biddingPrice": 800000
+    },
+    {
+        "playerId": 11,
+        "name": "Jason Holder",
+        "country": "West Indies",
+        "image": "https://img.cricketnmore.com/uploads/2020/05/Jason-Holder2-lg.jpg",
+        "role": "All-Rounder",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm fast-medium",
+        "biddingPrice": 750000
+    },
+    {
+        "playerId": 12,
+        "name": "Glenn Maxwell",
+        "country": "Australia",
+        "image": "https://revsportz.in/wp-content/uploads/2023/11/Maxwell.jpg",
+        "role": "All-Rounder",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": 1100000
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+      "playerId": 1,
+      "name": "Shakib Al Hasan",
+      "country": "BD",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/4ea5a6124969127.610f912dedc57.png",
+      "role": "All-Rounder",
+      "battingType": "Left-Handed",
+      "bowlingType": "Left-Arm Orthodox",
+      "biddingPrice": 8000000
+    },
+    {
+      "playerId": 2,
+      "name": "Joe Root",
+      "country": "ENG",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/017457206841949.66d337888e79e.png",
+      "role": "Batsman",
+      "battingType": "Right-Handed",
+      "bowlingType": "Off Spin",
+      "biddingPrice": 6500000
+    },
+    {
+      "playerId": 3,
+      "name": "Tamim Iqbal",
+      "country": "BD",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/f372b0115843083.60562b88091d2.jpg",
+      "role": "Batsman",
+      "battingType": "Left-Handed",
+      "bowlingType": "None",
+      "biddingPrice": 5000000
+    },
+    {
+      "playerId": 4,
+      "name": "Jos Buttler",
+      "country": "ENG",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ee1cc202035199.667ec0ef1fc33.jpg",
+      "role": "Wicketkeeper-Batsman",
+      "battingType": "Right-Handed",
+      "bowlingType": "None",
+      "biddingPrice": 7000000
+    },
+    {
+      "playerId": 5,
+      "name": "Mahmudullah Riyad",
+      "country": "BD",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/f3c6cf209857239.Y3JvcCwzMDY4LDI0MDAsNjgsMA.jpg",
+      "role": "All-Rounder",
+      "battingType": "Right-Handed",
+      "bowlingType": "Right-Arm Off Spin",
+      "biddingPrice": 5500000
+    },
+    {
+      "playerId": 6,
+      "name": "Jonny Bairstow",
+      "country": "ENG",
+      "image": "https://static.indiatvnews.com/ins-web/images/jonny-bairstow-1541440283.jpg",
+      "role": "Wicketkeeper-Batsman",
+      "battingType": "Right-Handed",
+      "bowlingType": "None",
+      "biddingPrice": 7200000
+    },
+    {
+      "playerId": 7,
+      "name": "Mushfiqur Rahim",
+      "country": "BD",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2021/11/19/mushfiqur-rahim.jpg",
+      "role": "Wicketkeeper-Batsman",
+      "battingType": "Right-Handed",
+      "bowlingType": "None",
+      "biddingPrice": 6000000
+    },
+    {
+      "playerId": 8,
+      "name": "Jofra Archer",
+      "country": "ENG",
+      "image": "https://thecapital.org.in/wp-content/uploads/2024/04/jaffar.png",
+      "role": "Bowler",
+      "battingType": "Right-Handed",
+      "bowlingType": "Right-Arm Fast",
+      "biddingPrice": 9500000
+    },
+    {
+      "playerId": 9,
+      "name": "Mustafizur Rahman",
+      "country": "BD",
+      "image": "https://www.dailymessenger.net/media/imgAll/2022February/en/16-2312191615.jpg",
+      "role": "Bowler",
+      "battingType": "Right-Handed",
+      "bowlingType": "Left-Arm Fast-Medium",
+      "biddingPrice": 8200000
+    },
+    {
+      "playerId": 10,
+      "name": "Ben Stokes",
+      "country": "ENG",
+      "image": "https://i.pinimg.com/736x/75/15/0e/75150eb8d279eed29668a8c7e04286bf.jpg",
+      "role": "All-Rounder",
+      "battingType": "Left-Handed",
+      "bowlingType": "Right-Arm Fast-Medium",
+      "biddingPrice": 10000000
+    },
+    {
+      "playerId": 11,
+      "name": "Eoin Morgan",
+      "country": "ENG",
+      "image": "https://i.pinimg.com/originals/dc/4b/59/dc4b593cd7a06551255db0188c1d146f.png",
+      "role": "Batsman",
+      "battingType": "Left-Handed",
+      "bowlingType": "None",
+      "biddingPrice": 6200000
+    },
+    {
+      "playerId": 12,
+      "name": "Mashrafe Mortaza",
+      "country": "BD",
+      "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_2/public/feature/images/mashrafe_bin_mortaza_13.jpg",
+      "role": "Bowler",
+      "battingType": "Right-Handed",
+      "bowlingType": "Right-Arm Fast-Medium",
+      "biddingPrice": 4800000
+    }
+]
