@@ -1,6 +1,6 @@
-# **Player Selection BPL-DREAM**
+# **Player Selection DREAM-Initiative-with-React.**
 
-A responsive and interactive player selection BPL-DREAM. Where users can select their favorite players, manage their choices, and enjoy a dynamic bidding experience. With a user-friendly interface, this app allows users to select players within their available budget and displays selected players in a separate view. Built in **React**, this game is a mix of strategy, budget management, and entertainment.
+A responsive and interactive player selection DREAM-Initiative-with-React. Users can select their favorite players, manage their choices, and enjoy a dynamic bidding experience. With a user-friendly interface, this app allows users to select players within their available budget and displays players chosen in a separate view. Built-in **React**, this game combines strategy, budget management, and entertainment.
 
 ---
 
